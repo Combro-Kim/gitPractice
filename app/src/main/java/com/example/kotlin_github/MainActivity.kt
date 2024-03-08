@@ -9,6 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         //dev 브랜치 생성완료 기념 first commit
 
+        var name = "johnDev"
 
         
     }
