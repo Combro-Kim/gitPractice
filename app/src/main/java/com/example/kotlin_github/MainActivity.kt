@@ -14,6 +14,7 @@ class MainActivity : AppCompatActivity() {
         //연습용
         var name1 = "minsoo"
 
+        val name3 = ""
 
 
 
