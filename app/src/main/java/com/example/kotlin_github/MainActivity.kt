@@ -11,6 +11,12 @@ class MainActivity : AppCompatActivity() {
 
         var name = "johnDev"
 
+        //연습용
+        var name1 = "minsoo"
+
+
+
+
         
     }
 }
