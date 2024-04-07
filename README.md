@@ -20,4 +20,11 @@ SNS 앱 만들기
 <br>
 
 ## 🛠️개발 환경
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/> Iguana 2023.2.1
+<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+* minSDK : 33
+* targetSDK : 34
+<br>
+
+## 📌주요기능
+### 📍로그인 / 회원가입
