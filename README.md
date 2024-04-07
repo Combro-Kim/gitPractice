@@ -34,7 +34,7 @@ SNS 앱 만들기
 <br>
 
 ### 📍게시물 확인
-<img src="" height="500" width="300">|<img src="" height="500" width="300">
+<img src="" height="500" width="230">|<img src="" height="500" width="230">
 --- | --- |
 <br>
 
