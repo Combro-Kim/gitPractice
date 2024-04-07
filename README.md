@@ -29,7 +29,7 @@ SNS 앱 만들기
 
 ## 📌주요기능
 ### 📍로그인 / 회원가입
-<img src="https://github.com/Combro-Kim/gitPractice/assets/84631435/cb68f14a-21b1-44ff-bbcf-b11bb0e9eaf6">
+<img src="https://github.com/Combro-Kim/gitPractice/assets/84631435/cb68f14a-21b1-44ff-bbcf-b11bb0e9eaf6" width = "370" height="700">
 <br>
 
 ### 📍게시물 확인
