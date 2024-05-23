@@ -47,7 +47,7 @@
 
 ### **📍 1) Home**
 
-Home 이미지
+<img src="https://github.com/Combro-Kim/gitPractice/assets/84631435/ac406994-4b98-455f-af14-e9ed1a1130c9" height="500" width="220">
 
 - YouTube의 현재 최신 인기 영상 목록
 - Video Category
