@@ -1,12 +1,6 @@
 ![image](https://github.com/Combro-Kim/gitPractice/assets/84631435/e57b984a-5729-48a1-a7ff-a9de483f2a99)
 
-
-# Dopaminemoa(도파민모아)
-내일배움캠프 심화 팀 프로젝트 - 1조(세르토닌)
-
-</br>
-
-## 📱프로젝트 소개
+# 📱Dopaminemoa(도파민모아) 소개
 "Dopaminemoa"는 Youtube API 데이터를 받아 데이터를 제공해주며 짧은 영상(쇼츠)을 골라 보여줄 수 있는 플랫폼입니다.
 
 </br>
@@ -90,7 +84,8 @@
 </br>
 
 
-## 👥멤버 구성
+## **👥Team member**
+내일배움캠프 심화 팀 프로젝트 - 1조(세르토닌)
 
 <table>
   <tbody>
