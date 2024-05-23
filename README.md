@@ -27,13 +27,15 @@
 
 * **Architecture** - MVVM
 
-* **Jetpack** - ViewModel, LiveData, Repository, ViewBinding
+* **Jetpack** - ViewModel, LiveData, Repository, RecyclerView, ViewBinding
 
 * **비동기 처리** - Coroutine
 
 * **데이터 저장** - SharedPreferences
 
 * **API 통신** - Retrofit, YouTube Data API v3
+
+* **라이브러리** - [YouTubePlayer] (https://github.com/PierfrancescoSoffritti/android-youtube-player?tab=readme-ov-file)
 
 </br>
 
