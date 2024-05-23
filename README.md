@@ -11,11 +11,7 @@
 </br>
 
 ## 🛠️개발 환경
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/><img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/><img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
 * minSDK : 24
 * targetSDK : 34
 
