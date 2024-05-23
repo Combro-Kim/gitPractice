@@ -56,7 +56,7 @@
 
 ### **📍 3) Shorts**
 
-<img src="https://github.com/Combro-Kim/gitPractice/assets/84631435/ac2f7fbf-9c21-4bc3-bb4a-f46e9d9930f3" height="500" width="220">
+<img src="https://github.com/Combro-Kim/gitPractice/assets/84631435/86e07388-8a81-4916-96e6-588d88062642" height="500" width="220">
 
 
 - 짧은 영상(쇼츠)만 보여주는 page
