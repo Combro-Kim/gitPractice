@@ -32,7 +32,7 @@
 
 * **API 통신** - Retrofit, YouTube Data API v3
 
-* **라이브러리** - [YouTubePlayer](https://github.com/PierfrancescoSoffritti/android-youtube-player?tab=readme-ov-file)
+* **외부 라이브러리** - [YouTubePlayer](https://github.com/PierfrancescoSoffritti/android-youtube-player?tab=readme-ov-file)
 
 </br>
 
