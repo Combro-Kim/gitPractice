@@ -15,7 +15,7 @@
 
 </br>
 
-## 🛠️개발 환경
+## 🛠️기술 스택 및 환경
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
 * minSDK : 24
 * targetSDK : 34
@@ -49,18 +49,17 @@
 
 Home 이미지
 
-- 인기있는 영상
-- 카테고리 선택
-- 카테고리별 인기 영상
-- 카테고리별 인기 채널
+- YouTube의 현재 최신 인기 영상 목록
+- Video Category
+  - 각 Category에 속하는 영상 목록과 Channel 조회 가능
 
 
 ### **📍 2) Search**
 
 Search 이미지
 
-
-- **검색 결과에 따른 영상 제공**
+- 사용자가 원하는 영상을 검색하여 결과를 얻을 수 있다.
+  - 
 
 
 ### **📍 3) Shorts**
@@ -69,6 +68,8 @@ Shorts 이미지
 
 
 - **짧은 영상(쇼츠)만 보여주는 page**
+- 무한 스크롤
+- 작성중
 
 
 ### **📍 4) Detail**
@@ -78,6 +79,7 @@ Detail 이미지
 
 - **선택한 데이터 영상 재생**
 - 채널명, 영상 제목, 영상 정보, 좋아요, 공유 기능 제공
+-  작성중
 
 
 ### **📍 5) MyVideo**
@@ -86,8 +88,9 @@ MyVideo 이미지
 
 
 - Detail에서 저장한 데이터 보여주기
+- 작성중
 
-
+</br>
 
 
 ## 👥멤버 구성
