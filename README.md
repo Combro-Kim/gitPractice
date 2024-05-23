@@ -1,7 +1,9 @@
 # Dopaminemoa(도파민모아)
 내일배움캠프 심화 팀 프로젝트 - 1조(세르토닌)
 
-**📱프로젝트 소개**
+</br>
+
+## 📱프로젝트 소개
 
 ```
 
@@ -91,10 +93,10 @@ MyVideo 이미지
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/theBettor"><img src="https://avatars.githubusercontent.com/u/89888486?v=4" width="100px;"><br /><sub><b>김찬교</b></sub></a><br /></a></td>
-      <td align="center"><a href="https://github.com/Combro-Kim"><img src="https://avatars.githubusercontent.com/u/84631435?s=400&v=4" width="100px;"><br /><sub><b>김재혁</b></sub></a><br /></a></td>
-      <td align="center"><a href="https://github.com/BanDalKang"><img src="https://avatars.githubusercontent.com/u/77070839?v=4" width="100px;"><br /><sub><b>강현정</b></sub></a><br /></a></td>
-      <td align="center"><a href="https://github.com/neoneoneo123"><img src="https://avatars.githubusercontent.com/u/128209823?v=4" width="100px;"><br /><sub><b>정지연</b></sub></a><br /></a></td>
+      <td align="center"><a href="https://github.com/theBettor"><img src="https://avatars.githubusercontent.com/u/89888486?v=4" width="100px;"><br /><sub><b>theBettor</b></sub></a><br /></a></td>
+      <td align="center"><a href="https://github.com/Combro-Kim"><img src="https://avatars.githubusercontent.com/u/84631435?s=400&v=4" width="100px;"><br /><sub><b>Combro-Kim</b></sub></a><br /></a></td>
+      <td align="center"><a href="https://github.com/BanDalKang"><img src="https://avatars.githubusercontent.com/u/77070839?v=4" width="100px;"><br /><sub><b>BanDalKang</b></sub></a><br /></a></td>
+      <td align="center"><a href="https://github.com/neoneoneo123"><img src="https://avatars.githubusercontent.com/u/128209823?v=4" width="100px;"><br /><sub><b>neoneoneo123</b></sub></a><br /></a></td>
      <tr/>
   </tbody>
 </table>
