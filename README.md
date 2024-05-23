@@ -1,4 +1,5 @@
-![image](https://github.com/Combro-Kim/gitPractice/assets/84631435/a6607c6f-1b78-410d-b1e3-13ef5608aae9)
+![image](https://github.com/Combro-Kim/gitPractice/assets/84631435/e57b984a-5729-48a1-a7ff-a9de483f2a99)
+
 
 # Dopaminemoa(도파민모아)
 내일배움캠프 심화 팀 프로젝트 - 1조(세르토닌)
