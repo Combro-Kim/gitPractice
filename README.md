@@ -1,2 +1,6 @@
-# Project - Dopaminemoa(도마민모아)
+# Dopaminemoa(도파민모아)
+## 내일배움캠프 - ▶️ 심화 앱 개발 팀 프로젝트
+
+
+
 ```
