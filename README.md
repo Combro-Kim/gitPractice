@@ -35,9 +35,7 @@
 
 * **비동기 처리** - Coroutine
 
-* **데이터 처리** - Json Deserializer, SharedPreferences
-
-* **Firebase** - Realtime DB, Storage, Authentication, Cloud Messaging
+* **데이터 저장** - SharedPreferences
 
 * **API 통신** - Retrofit, YouTube Data API v3
 
@@ -52,39 +50,40 @@
 - YouTube의 현재 최신 인기 영상 목록
 - Video Category
   - 각 Category에 속하는 영상 목록과 Channel 조회 가능
-
+</br>
 
 ### **📍 2) Search**
 
-Search 이미지
+<img src="https://github.com/Combro-Kim/gitPractice/assets/84631435/234559f6-84eb-456b-9d92-fcbe329051f9" height="500" width="220">
 
 - 사용자가 원하는 영상을 검색하여 결과를 얻을 수 있다.
   - 
-
+</br>
 
 ### **📍 3) Shorts**
 
-Shorts 이미지
+<img src="https://github.com/Combro-Kim/gitPractice/assets/84631435/ac2f7fbf-9c21-4bc3-bb4a-f46e9d9930f3" height="500" width="220">
 
 
 - **짧은 영상(쇼츠)만 보여주는 page**
 - 무한 스크롤
 - 작성중
 
+</br>
 
 ### **📍 4) Detail**
 
-Detail 이미지
+<img src="https://github.com/Combro-Kim/gitPractice/assets/84631435/b8ff2bfa-4e85-4b9a-a81e-828c655e96d2" height="500" width="220">
 
 
 - **선택한 데이터 영상 재생**
 - 채널명, 영상 제목, 영상 정보, 좋아요, 공유 기능 제공
 -  작성중
-
+</br>
 
 ### **📍 5) MyVideo**
 
-MyVideo 이미지
+<img src="https://github.com/Combro-Kim/gitPractice/assets/84631435/e4b8f255-41c5-40c7-add3-8a353c136707" height="500" width="220">
 
 
 - Detail에서 저장한 데이터 보여주기
