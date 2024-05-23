@@ -6,12 +6,7 @@
 </br>
 
 ## 📱프로젝트 소개
-
-```
-
 "Dopaminemoa"는 Youtube API 데이터를 받아 영상을 재생할 수 있으며 짧은 영상(쇼츠)을 골라 보여줄 수 있는 플랫폼입니다.
-
-```
 
 </br>
 
@@ -57,7 +52,6 @@
 <img src="https://github.com/Combro-Kim/gitPractice/assets/84631435/234559f6-84eb-456b-9d92-fcbe329051f9" height="500" width="220">
 
 - 사용자가 원하는 영상을 검색하여 결과를 얻을 수 있다.
-  - 
 </br>
 
 ### **📍 3) Shorts**
@@ -65,7 +59,7 @@
 <img src="https://github.com/Combro-Kim/gitPractice/assets/84631435/ac2f7fbf-9c21-4bc3-bb4a-f46e9d9930f3" height="500" width="220">
 
 
-- **짧은 영상(쇼츠)만 보여주는 page**
+- 짧은 영상(쇼츠)만 보여주는 page
 - 무한 스크롤
 - 작성중
 
