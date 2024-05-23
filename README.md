@@ -14,7 +14,7 @@
 </br>
 
 ## 🛠️개발 환경
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/><img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/><img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
 * minSDK : 24
 * targetSDK : 34
 
@@ -23,23 +23,23 @@
 ## ⏰개발 기간
 * 24.05.13 ~ 24.05.23
 
-<br>
+</br>
 
 ## ⚙️Main Stacks
 
-**Architecture** - MVVM
+* **Architecture** - MVVM
 
-**Jetpack** - ViewModel, LiveData, Reposittory, ViewBinding
+* **Jetpack** - ViewModel, LiveData, Reposittory, ViewBinding
 
-**비동기 처리** - Coroutine
+* **비동기 처리** - Coroutine
 
-**데이터 처리** - Json Deserializer, SharedPreferences
+* **데이터 처리** - Json Deserializer, SharedPreferences
 
-**Firebase** - Realtime DB, Storage, Authentication, Cloud Messaging
+* **Firebase** - Realtime DB, Storage, Authentication, Cloud Messaging
 
-**API 통신** - Retrofit, YouTube Data API v3
+* **API 통신** - Retrofit, YouTube Data API v3
 
----
+</br>
 
 # 📌주요기능
 
