@@ -26,7 +26,7 @@
 
 * **Architecture** - MVVM
 
-* **Jetpack** - ViewModel, LiveData, Reposittory, ViewBinding
+* **Jetpack** - ViewModel, LiveData, Repository, ViewBinding
 
 * **비동기 처리** - Coroutine
 
@@ -51,7 +51,8 @@
 
 <img src="https://github.com/Combro-Kim/gitPractice/assets/84631435/234559f6-84eb-456b-9d92-fcbe329051f9" height="500" width="220">
 
-- 사용자가 원하는 영상을 검색하여 결과를 얻을 수 있다.
+- 검색어와 관련된 shorts 영상 목록 제공
+- 도파민 도는 영상을 찾을 수 있도록 해시태그 제공
 </br>
 
 ### **📍 3) Shorts**
@@ -59,9 +60,8 @@
 <img src="https://github.com/Combro-Kim/gitPractice/assets/84631435/86e07388-8a81-4916-96e6-588d88062642" height="500" width="220">
 
 
-- 짧은 영상(쇼츠)만 보여주는 page
-- 무한 스크롤
-- 작성중
+- 짧은 영상(쇼츠)만 보여줌
+- 무한 스크롤 기능
 
 </br>
 
@@ -71,8 +71,9 @@
 
 
 - **선택한 데이터 영상 재생**
-- 채널명, 영상 제목, 영상 정보, 좋아요, 공유 기능 제공
--  작성중
+- 해당 영상에 대한 정보 제공
+- 링크 공유 기능
+- 
 </br>
 
 ### **📍 5) MyVideo**
@@ -80,8 +81,8 @@
 <img src="https://github.com/Combro-Kim/gitPractice/assets/84631435/e4b8f255-41c5-40c7-add3-8a353c136707" height="500" width="220">
 
 
-- Detail에서 저장한 데이터 보여주기
-- 작성중
+- 좋아요 누른 데이터 저장
+    - 실시간 반영
 
 </br>
 
